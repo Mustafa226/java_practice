@@ -1,0 +1,13 @@
+
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ñÆ©ıøÿÿÿÿ8Ã£ñ,
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(ØĞÙò8­ßÉñ,
+Qsquid:S1481
+".Remove this unused "employee3" local variable.(´ôöŒıÿÿÿÿ8Ÿâªñ,
+lsquid:S1192"IDefine a constant instead of duplicating this literal "Mehuljic" 3 times.(†ÀÖãÿÿÿÿÿ8Û­§ñ,
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(È«Š¬8¼µÊñ,
+`squid:S1854
+"=Remove this useless assignment to local variable "employee3".(´ôöŒıÿÿÿÿ8Ÿâªñ,
+8squid:S1220""Move this file to a named package.8õ„ğıî,

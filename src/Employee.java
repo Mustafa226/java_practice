@@ -1,7 +1,7 @@
 public class Employee {
-    int id;
-    String name;
-    String surname;
+    private int id;
+    private String name;
+    private String surname;
 
     Employee(int id, String name, String surname) {
         this.id = id;
